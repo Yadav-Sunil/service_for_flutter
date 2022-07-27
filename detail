@@ -1,0 +1,11 @@
+flutter pub publish --dry-run
+flutter pub logout to logout and flutter pub login to login.
+flutter pub publish
+
+
+
+git init
+git add -A
+git commit -m 'Added my project'
+git remote add origin path
+git push -u -f origin main
